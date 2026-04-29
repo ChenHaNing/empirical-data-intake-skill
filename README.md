@@ -1,12 +1,21 @@
 # Empirical Data Intake Skill · 实证研究数据入场 Skill
 
+> **本模块已迁移**：本 skill 现在是 [`empirical-research-pipeline`](https://github.com/ChenHaNing/empirical-research-pipeline) 仓库下的 `modules/01-data-intake/`，作为更大的实证研究全流程 skill 体系中的第一个模块。
+>
+> **新地址**：<https://github.com/ChenHaNing/empirical-research-pipeline/tree/main/modules/01-data-intake>
+>
+> 本仓库保留为历史归档（v0.2）。**新功能、bug 修复、版本更新都将在新仓库进行**。已经克隆本仓库的用户可以继续使用 v0.2，但建议迁移到新仓库以获取后续更新。
+
+---
+
 > 一句话：把一份原始数据文件，自动整理成"可以直接拿去跑回归"的状态。
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-v0.2-blue.svg)](#9-版本与计划)
+[![Status](https://img.shields.io/badge/status-archived-lightgrey.svg)](#)
 [![Claude Code Skill](https://img.shields.io/badge/Claude%20Code-skill-orange.svg)](https://claude.com/claude-code)
 
-仓库地址：<https://github.com/ChenHaNing/empirical-data-intake-skill>
+仓库地址（历史归档）：<https://github.com/ChenHaNing/empirical-data-intake-skill>
 
 ---
 
